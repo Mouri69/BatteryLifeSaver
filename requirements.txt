@@ -1,0 +1,7 @@
+psutil>=5.9.0
+plyer>=2.1.0
+pystray>=0.19.4
+Pillow>=9.5.0
+pywin32>=305
+winshell>=0.6
+pyinstaller>=6.0.0 
