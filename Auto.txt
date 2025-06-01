@@ -41,3 +41,4 @@ Commit 3: Clean up code in frontend components
 Commit 4: Improve error handling in frontend components
 Commit 5: Improve error handling in frontend components
 Commit 6: Fix bug in frontend components
+Commit 7: Optimize database queries performance
