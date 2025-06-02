@@ -40,3 +40,4 @@ Commit 2: Improve error handling in configuration
 Commit 3: Clean up code in frontend components
 Commit 4: Improve error handling in frontend components
 Commit 5: Improve error handling in frontend components
+Commit 6: Fix bug in frontend components
