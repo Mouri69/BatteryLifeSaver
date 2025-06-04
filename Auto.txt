@@ -38,3 +38,4 @@ Commit number 7
 Commit 1: Update error logging functionality
 Commit 2: Improve error handling in configuration
 Commit 3: Clean up code in frontend components
+Commit 4: Improve error handling in frontend components
